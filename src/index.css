@@ -20,6 +20,20 @@ footer {
 a {
   color: #cdc0ca;
 }
+
+main{
+
+
+    
+}
+.wrap-box{
+display:flex;
+justify-content: space-between;
+
+
+
+
+}
 .weather-app {
   background-color: white;
   max-width: 600px;
