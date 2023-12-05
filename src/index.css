@@ -103,6 +103,7 @@ main {
   position: relative;
   left: 25px;
 }
+
 .weather-forecast {
   display: flex;
   justify-content: space-around;
@@ -122,7 +123,17 @@ main {
   margin: 0 auto;
   width: 88px;
   height: 88px;
+  transition: all 500ms ease-in-out;
+  margin: 15px auto;
+  padding: 15px;
+  border-radius: 60px;
+
+  max-width: 200px;
 }
+.weather-forecast-icon:hover {
+  background-color: #be97c6;
+}
+
 .weather-forecast-temperatures {
   text-align: center;
   color: #c09e9e;
