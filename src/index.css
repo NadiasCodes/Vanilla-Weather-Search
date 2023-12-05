@@ -4,11 +4,9 @@ html {
 }
 
 body {
-  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/106/064/original/motion.gif?1701800315");
+  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/106/081/original/gradient-earth-tone-background-soft-vintage-style.jpg?1701802497");
   background-position: center;
-  background-repeat: no-repeat;
   background-size: cover;
-  background-repeat: no-repeat;
 }
 header {
   border-bottom: 1px solid #ded4df75;
@@ -36,7 +34,7 @@ main {
   justify-content: space-between;
 }
 .weather-app {
-  background-color: white;
+  background-color: #f5f2ed;
   max-width: 600px;
   margin: 30px auto;
   padding: 30px;
