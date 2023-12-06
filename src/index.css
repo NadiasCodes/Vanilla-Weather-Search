@@ -7,7 +7,7 @@ body {
   background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/106/081/original/gradient-earth-tone-background-soft-vintage-style.jpg?1701802497");
   background-position: center;
   background-size: cover;
-  font-family: 'Montserrat Alternates', sans-serif;
+  font-family: "Montserrat Alternates", sans-serif;
 }
 header {
   border-bottom: 1px solid #ded4df75;
@@ -21,11 +21,11 @@ footer {
   font-size: 14px;
 }
 a {
-  color: #C9A08D;
+  color: #c9a08d;
   text-decoration: none;
 }
 a:hover {
-  color: #C6B09F;
+  color: #c6b09f;
 }
 main {
   padding: 30px p;
@@ -59,7 +59,7 @@ main {
 .search-button {
   background-color: #dbd2ca;
   border: none;
-  color: white;
+  color: #ded4df75;
   padding: 20px 30px;
   font-size: 14px;
   border-radius: 6px;
@@ -83,14 +83,14 @@ main {
   font-weight: 500;
 }
 .weather-details strong {
-  color: #C9A08D;
+  color: #c9a08d;
 }
 
 .weather-app-container {
   display: flex;
 }
 .weather-app-temp {
-  color: #6C635E;
+  color: #6c635e;
   font-size: 75px;
   font-weight: 700;
   line-height: 88px;
@@ -101,7 +101,7 @@ main {
 }
 
 .weather-app-value {
-  color: #6C635E;
+  color: #6c635e;
   font-size: 28px;
   font-weight: 400;
   line-height: 1;
@@ -124,7 +124,7 @@ main {
 
 .weather-forecast-date {
   text-align: center;
-  color: #6C635E;
+  color: #6c635e;
   font-size: 16px;
   line-height: 20px;
   margin-bottom: 10px;
@@ -143,12 +143,12 @@ main {
   max-width: 200px;
 }
 .weather-forecast-icon:hover {
-  background-color: #DCCCBC;
+  background-color: #dcccbc;
 }
 
 .weather-forecast-temperatures {
   text-align: center;
-  color: #6C635E;
+  color: #6c635e;
   margin-top: 10px;
   display: flex;
   justify-content: center;
