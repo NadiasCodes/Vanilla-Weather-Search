@@ -110,10 +110,10 @@ main {
   left: -4px;
 }
 .weather-app-icon {
-  width: 95px;
-  height: 95px;
+  width: 100px;
+  height: 100px;
   position: relative;
-  left: 25px;
+  left: 20px;
 }
 
 .weather-forecast {
