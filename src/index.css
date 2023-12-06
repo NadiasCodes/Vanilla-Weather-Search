@@ -91,7 +91,7 @@ main {
 }
 .weather-app-temp {
   color: #6c635e;
-  font-size: 75px;
+  font-size: 68px;
   font-weight: 700;
   line-height: 88px;
   margin-left: 10px;
@@ -111,7 +111,7 @@ main {
 }
 .weather-app-icon {
   width: 100px;
-  height: 100px;
+  height: px;
   position: relative;
   left: 20px;
 }
