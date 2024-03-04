@@ -40,10 +40,11 @@ main {
   background-position: center;
   background-size: cover;
   max-width: 600px;
-  margin: 30px auto;
+  margin: 20px auto;
   padding: 30px;
   box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
   border-radius: 16px;
+  margin-top: 150px;
 }
 
 .search-form-input {
